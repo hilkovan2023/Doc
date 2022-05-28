@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /tags/*
+
+Sitemap: https://yangxk201396.github.io/Doc/sitemap.xml

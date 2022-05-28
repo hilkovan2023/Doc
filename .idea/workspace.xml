@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a4b108e4-9d3e-4e20-b9cf-b71d20e89c91" name="Changes" comment="add theme" />
+    <list default="true" id="a4b108e4-9d3e-4e20-b9cf-b71d20e89c91" name="Changes" comment="hugo init">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -111,7 +113,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add theme" />
-    <option name="LAST_COMMIT_MESSAGE" value="add theme" />
+    <MESSAGE value="hugo init" />
+    <option name="LAST_COMMIT_MESSAGE" value="hugo init" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
